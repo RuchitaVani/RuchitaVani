@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuchitaVani
 - 👀 I’m interested in webdesigner
-- 🌱 I’m currently learning development 
+- 🌱 I’m currently working as a developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
